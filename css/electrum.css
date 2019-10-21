@@ -105,16 +105,16 @@ pre, code, tt {
     line-height:1.5;
 }
 
-#electrum_text {
+#electrumsys_text {
     width:300px;
     height:45px;
     display:block;
-    background:url(../logo/electrum_text.png) no-repeat 0 0;
-    background-image: -webkit-image-set( url(../logo/electrum_text.png) 1x, url(../logo/electrum_text.png) 2x);
+    background:url(../logo/electrumsys_text.png) no-repeat 0 0;
+    background-image: -webkit-image-set( url(../logo/electrumsys_text.png) 1x, url(../logo/electrumsys_text.png) 2x);
     background-size:300px 42px;
 }
 
-#electrum_text span, #electrum_logo img { position:absolute; top:100%; left:-99999px; }
+#electrumsys_text span, #electrumsys_logo img { position:absolute; top:100%; left:-99999px; }
 	
 #logo_subtitle {
     font-weight:300;
@@ -123,13 +123,13 @@ pre, code, tt {
 
 }
 	
-#electrum_logo {
+#electrumsys_logo {
     width:70px;
     height:66px;
     display:block;
     float:right;
-    background:url(../logo/electrum_logo.png) no-repeat 0 0;
-    background-image: -webkit-image-set( url(../logo/electrum_logo.png) 1x, url(../logo/electrum_logo.png) 2x);
+    background:url(../logo/electrumsys_logo.png) no-repeat 0 0;
+    background-image: -webkit-image-set( url(../logo/electrumsys_logo.png) 1x, url(../logo/electrumsys_logo.png) 2x);
     background-size:70px 66px;
 }
 

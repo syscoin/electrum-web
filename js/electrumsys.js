@@ -118,7 +118,7 @@ $(document).ready(function () {
 
 	// Facebook / Like button
 	$('.facebook_like').socialbutton('facebook_like', {
-		url: 'https://www.facebook.com/kivysoftware',
+		url: 'https://www.facebook.com/syscoin',
 		show_faces: false,
 		locale: 'en_US',
 		button: 'box_count'
@@ -134,7 +134,7 @@ $(document).ready(function () {
 
 	// Twitter / Tweet Button
 	$('.twitter').socialbutton('twitter', {
-		url: 'http://kivy.org/',
+		url: 'http://syscoin.org/',
 		lang: 'en'
 	});
 
