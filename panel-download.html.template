@@ -5,7 +5,7 @@
 
 <div style="font-size:small">
   Sources and executables are signed by
-  <a href="https://raw.githubusercontent.com/syscoin/electrum/master/pubkeys/sidhujag.asc">sidhujag</a>.<br/>
+  <a href="https://raw.githubusercontent.com/syscoin/electrum/master/pubkeys/willyko.asc">willyko</a>.<br/>
 Linux and Windows builds are reproducible, and signed by several developers. See the list <a href="https://github.com/syscoin/electrum-signatures/tree/master/##VERSION##/">here</a><br/>
 </div>
 
@@ -194,9 +194,9 @@ Note: All the files can be downloaded via <a href="https://electrumdownload.sysc
   <p>
     In order to be able to verify GPG signatures, you need to import
     the public key of the signer. ElectrumSys binaries are signed with
-    sidhujag's <a href="https://raw.githubusercontent.com/syscoin/electrum/master/pubkeys/sidhujag.asc">public
+    willyko's <a href="https://raw.githubusercontent.com/syscoin/electrum/master/pubkeys/willyko.asc">public
     key</a>. On Linux, you can import that key using the following
-    command: <code>gpg --import sidhujag.asc</code>. Here are tutorials for
+    command: <code>gpg --import willyko.asc</code>. Here are tutorials for
     <a href="https://bitzuma.com/posts/how-to-verify-an-electrum-download-on-windows/">Windows</a>
     and <a href="https://bitzuma.com/posts/how-to-verify-an-electrum-download-on-mac/">MacOS</a>.
     When you import a key, you should check its fingerprint using
