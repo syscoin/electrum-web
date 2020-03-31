@@ -92,19 +92,19 @@ Note: All the files can be downloaded via <a href="https://electrumdownload.sysc
       <span id="mac" style="font-size:80%"><a href="##link_mac##.asc">signature</a></span>
     </td>
   </tr>
-  <tr>
+  <!--<tr>
     <td>
       <img src="icons/android_icon.png" width=30/>Android
       <span style="font-size:80%">(5.0 and higher)</span>
     </td>
     <td>
       <a href="https://electrumdownload.syscoin.org/##VERSION_ANDROID##/ElectrumSys-##VERSION_APK##-release.apk">APK</a>, also available on 
-      <a href="https://play.google.com/store/apps/details?id=org.electrumsys.electrumsys">Google Play</a>
+      <a href="https://play.google.com/store/apps/details?id=org.electrum.electrumsys">Google Play</a>
     </td>
     <td>
       <span style="font-size:80%"><a href="https://electrumdownload.syscoin.org/##VERSION_ANDROID##/ElectrumSys-##VERSION_APK##-release.apk.asc">signature</a></span>
     </td>
-  </tr>
+  </tr>-->
 </table>
 
 
