@@ -6,7 +6,7 @@
 <div style="font-size:small">
   Sources and executables are signed by
   <a href="https://raw.githubusercontent.com/syscoin/electrum/master/pubkeys/willyko.asc">willyko</a>.<br/>
-Linux and Windows builds are reproducible, and signed by several developers. See the list <a href="https://github.com/syscoin/electrum-signatures/tree/master/##VERSION##/">here</a><br/>
+Linux and Windows builds are reproducible, and signed by several developers. See the list <a href="https://github.com/syscoin/electrum/releases/tag/##VERSION##/">here</a><br/>
 </div>
 
 
